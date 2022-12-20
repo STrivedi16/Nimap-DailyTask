@@ -22,10 +22,13 @@ public class Passenger {
 				 System.out.println("Ticket Price="+ticket);
 		}
 	 
+	 
 	 public void details()
 	 {
 		System.out.println("AirLine- AirIndia ");
 		
 
 	 }
+	 
+	 // Constructor Overloading-: When We Have More Then one Constructor With a Different Parameter.
 }

@@ -11,8 +11,8 @@ public class Exception
 			{
 				c=a/b;
 				// Here i have doing division 
-				// i divide 10 by 0 so it will throw Runtime Exception 
-				// so This Exception is Arithmetic Exception so output will show only catchblock 
+				// i divide 10 by 0 so it will throw  Exception 
+				// so This Exception is Arithmetic Exception so output will show only catch block 
 			}
 			catch(ArithmeticException ae)
 			{

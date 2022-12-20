@@ -38,4 +38,5 @@ public class Employee
 
 // Encapsulation - It is a Mechanisum of wraping data and code Actiong on data together on single unit .
 // Encapsulation means data Hiding 
-// Here data is set by Setter method 
+// Here data is set by Setter method  and Get by Getter Method 
+
