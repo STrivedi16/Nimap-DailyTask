@@ -14,4 +14,4 @@ public interface ATM
 
 
 // Interface is same as class which only contain Abstract Method . interface is used for method Declaration 
-// it is used to achive Abstraction.
+// it is used to achieve Abstraction.

@@ -11,5 +11,5 @@ public abstract class Details
 }
 
 
-// Abstract Method Support Both Abstract Method and Non-Abstract Method 
+// Abstract Class Support Both Abstract Method and Non-Abstract Method 
 // interface Only Support Abstract Method 

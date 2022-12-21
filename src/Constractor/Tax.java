@@ -23,9 +23,10 @@ public class Tax
 	}
 	
 	
-	// Constractor is spcial type of method that is use to initialized the object .
-	// Every Java class Has Constractor . 
-	// Constractor is automatically when we create an object .
+	// Constructor is special type of method that is use to initialized the object .
+	// Every Java class Has Constructor . 
+	// Constructor is automatically called when we create an object .
+	
 	
 	
 }

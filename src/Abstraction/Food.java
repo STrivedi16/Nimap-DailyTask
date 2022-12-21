@@ -6,8 +6,8 @@ public class Food extends Animal
 	
 	@Override
 	public void food(String food) {
-		System.out.println(super.an);
-		System.out.println(super.sd);
+		System.out.println(super.an+ " "+super.sd);
+		
 		System.out.println(food);
 		
 	}
