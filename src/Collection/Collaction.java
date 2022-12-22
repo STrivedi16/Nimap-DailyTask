@@ -30,4 +30,7 @@ public class Collaction {
 }
 
 // Collections is a class so it has some method like contains , is empty , add , remove
+// Add Method is used to add an elements
+// Contains is used to know weather the your elements is in the list or not;
+// is empty is show weather the your List is empty or not;
 

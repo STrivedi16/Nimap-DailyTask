@@ -3,16 +3,16 @@ package Method_Overloding;
 public class Restaurent {
 	String list;
 	int price;
-	public void Manu(String List)
+	public void Menu(String List)
 	{
 		this.list=List;
 	}
-	public int Manu(int Price)
+	public int Menu(int Price)
 	{
 		return this.price=Price;
 	}
 	
-	public void Manu()
+	public void Menu()
 	{
 		System.out.println(list+" "+price);
 	}

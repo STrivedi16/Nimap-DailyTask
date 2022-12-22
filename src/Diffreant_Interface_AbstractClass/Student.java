@@ -4,7 +4,14 @@ public interface Student {
 	
 	public void info();
 	
-	
+	/*default void sum()
+	{
+		int a=10;
+		int b=20;
+		
+		System.out.println(a+b);
+		
+	}*/
 }
 
 // Interface Does not Allowed Body to Method . 

@@ -33,7 +33,7 @@ public class ALLSET {
 		
 		System.out.println("BY HASHSET");
 		
-		HashSet hs=new HashSet<>();
+		HashSet <String>hs=new HashSet<>();
 		hs.add("Mumabai");
 		hs.add("Rakot");
 		hs.add("Dubai");
