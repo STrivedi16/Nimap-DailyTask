@@ -29,4 +29,7 @@ public class Airline {
 
 
 
-//Compile Time Polymorphism means Mehtod Overloading  
+//Compile Time Polymorphism means Method Overloading  
+// Method Overloading - One class have more then one method with a same name but different parameter 
+
+

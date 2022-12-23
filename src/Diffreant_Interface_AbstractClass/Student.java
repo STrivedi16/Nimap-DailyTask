@@ -24,4 +24,7 @@ public interface Student {
 	(Because we can implements more then one class)
 	-Abstract Class Does not Support multiple inheritance
 	(Because we Only Extends One Class);
+	
+	- Abstraction is  not 100% Abstraction method 
+	- Interface is 100% Abstraction Method
 */
