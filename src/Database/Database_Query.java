@@ -18,6 +18,8 @@ public class Database_Query {
 	 * 
 	 * truncate -> Used to delete data from the table
 	 * 
+	 * 
+	 * 
 	 */
 	
 }
