@@ -113,5 +113,6 @@
 	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/tika-core-1.4.jar"/>
 	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/tika-parsers-1.4.jar"/>
 	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/hb jars/xml-apis-1.3.03.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA 1/Advace java/mysql connector/mysql-connector-java-5.1.14-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

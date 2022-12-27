@@ -1,17 +1,25 @@
 package Hybernate;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
 @Table(name="pasenger")
 public class Passenger 
 {
+	@Id
 	private int cid;
+	@Column(name="name")
 	private String name;
+	@Column(name="city1")
 	private String city1;
+	@Column(name="city2")
 	private String city2;
+	@Column(name="seatnum")
 	private String seatnum;
+	@Column(name="class")
 	private String CLASS;
 	public int getCid() {
 		return cid;
